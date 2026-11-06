@@ -1,0 +1,1 @@
+Create a concise long-term memory summary for this user from the new conversation and any existing memory. Preserve durable preferences, key decisions, and unfinished projects; omit passwords, access tokens, private keys, and transient small talk. Do not invent information. Return only the updated memory.
